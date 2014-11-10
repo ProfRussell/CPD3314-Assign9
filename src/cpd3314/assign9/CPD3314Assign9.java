@@ -44,7 +44,7 @@ public class CPD3314Assign9 {
      * returns a copy of the argument, backwards. For example 
      * reverseString("hello") would return "olleh".
      */
-    public static String revereString(String str) {
+    public static String reverseString(String str) {
         return "";
     }
     
